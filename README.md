@@ -8,4 +8,4 @@ Files
  
 * modules : turtle,random,object oriented functionality in python
 
-![alt text](https://github.com/[raviaahlad]/[Turtle-Crosing-Game]/blob/[main]/turtle crossing game-1.png?raw=true)
+images of game : Turtle cossing game -1
